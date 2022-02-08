@@ -19,15 +19,13 @@
 ## Code and Resources Used 
 **Python Version:** 3.7.11  
 **Packages:** numpy, pandas, sklearn, matplotlib, seaborn
-**Dataset from:** [fedesoriano](https://www.kaggle.com/fedesoriano) <br>
-**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
+**Dataset from:** [fedesoriano](https://www.kaggle.com/fedesoriano) <br>  
 
 ## Features of the Dataset
 Dataset contains 5111 rows. Each row in the data provides relevant information about the patient. 
 * gender: "Male", "Female" or "Other"
 * age: age of the patient
-* hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has 
-hypertension
+* hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
 * heart_disease: 0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
 * ever_married: "No" or "Yes"
 * work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
