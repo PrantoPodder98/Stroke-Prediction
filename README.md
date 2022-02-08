@@ -66,7 +66,8 @@ After our dataset was finally ready, we have used some machine learning classifi
 The different models used are:
 * Logistic Regression 
 * Naive Bayes
-* k Nearest Neighbors*. Support Vector Machine – Gaussian SVM
+* k Nearest Neighbors
+* Support Vector Machine – Gaussian SVM
 * Random Forest Classifier
 
 ## Model performance
