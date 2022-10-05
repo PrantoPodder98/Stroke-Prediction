@@ -288,7 +288,7 @@ def evaluate_preds(y_test,y_pred):
 
 ## Results
 
-<img src="https://user-images.githubusercontent.com/64092765/153050322-d2dca138-58d4-4bd1-9ac4-5927983b895a.png" width="50%">
+<img src="https://user-images.githubusercontent.com/64092765/153050322-d2dca138-58d4-4bd1-9ac4-5927983b895a.png" width="75%">
 
 
 
