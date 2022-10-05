@@ -286,6 +286,11 @@ def evaluate_preds(y_test,y_pred):
     return metric_dict
 ```
 
+## Project Report
+
+[Pattern Lab Project Report - Stroke Prediction.pdf](https://github.com/Jawwad-Fida/Stroke-Prediction/files/9715902/Pattern.Lab.Project.Report.-.Team.Kingsmen.pdf)
+
+
 ## Results
 
 <img src="https://user-images.githubusercontent.com/64092765/153050322-d2dca138-58d4-4bd1-9ac4-5927983b895a.png" width="75%">
