@@ -13,7 +13,7 @@ In our project we want to predict stroke using machine learning classification a
 **Domain**: Machine Learning, Data Science.
 
 ## Contributors
-- **Team Members:** [Mohammed Jawwadul Islam](https://www.linkedin.com/in/jawwadfida/), [Mohammad Fahad Al Rafi](https://www.linkedin.com/in/md-fahad-al-al-rafi-14b968111/), [Pranto Podder](https://www.linkedin.com/in/aysha-siddika-577ba5224/)
+- **Team Members:** [Mohammed Jawwadul Islam](https://www.linkedin.com/in/jawwadfida/), [Mohammad Fahad Al Rafi](https://www.linkedin.com/in/md-fahad-al-al-rafi-14b968111/), [Pranto Podder](https://www.linkedin.com/in/pranto-podder/)
 - **Course:** Pattern Recognition Project - B.Sc. in Computer Science and Engineering (CSE)
 - **Project Duration:** Fall 2021 Trimester (Nov 2021 - Jan 2022)
 - **Dataset from:** [fedesoriano](https://www.kaggle.com/fedesoriano)
